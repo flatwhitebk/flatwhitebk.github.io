@@ -838,6 +838,10 @@ article {
   article:nth-child(3n) {
     float: right; }
 
+.icons{
+  height: 2em;
+}
+
 .X {
   display: block;
   color: #000000;
