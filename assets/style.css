@@ -532,7 +532,7 @@ h2 {
     #branding {
       z-index: 99999999999999999999; } }
   #branding a img {
-    width: 120px; }
+    width: 300px; }
 
 @media (max-width: 639px) {
   .slideshow {
