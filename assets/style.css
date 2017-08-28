@@ -842,6 +842,11 @@ article {
   height: 3em;
 }
 
+footer{
+  text-align: center;
+  margin: 2em auto;
+}
+
 .X {
   display: block;
   color: #000000;
